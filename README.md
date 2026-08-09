@@ -2,7 +2,7 @@
 
 ## 🎮 GoldSrc-related
 
-| Project | Type | Link |
+| Project | Brief | Link |
 |---------|------|------|
 | **MetaHookSv** | MetaHook — client-side modding framework for GoldSrc and SvEngine (Sven Co-op) | [GitHub](https://github.com/hzqst/MetaHookSv) |
 | **BetterSpray** | MetaHookSv Plugin — replace low-res decals in game with HD images from Steam profiles | [GitHub](https://github.com/hzqst/BetterSpray) |
@@ -15,19 +15,18 @@
 
 ## 🔫 Source2-related
 
-| Project | Type | Link |
+| Project | Brief | Link |
 |---------|------|------|
 | **CS2_VibeSignatures** | Signature DB — automated CS2 signature/offset generation via Agent SKILLS + IDA | [GitHub](https://github.com/HLND2T/CS2_VibeSignatures) |
 
 ## 🪟 Windows-related
 
-| Project | Type | Link |
+| Project | Brief | Link |
 |---------|------|------|
 | **kphtools** | Toolkits — KPH (SystemInformer) dynamic data offset generation | [GitHub](https://github.com/HLND2T/kphtools) |
 | **VmwareHardenedLoader** | Kernel Driver — VMware hardened VM detection mitigation (anti-anti-VM) | [GitHub](https://github.com/hzqst/VmwareHardenedLoader) |
 | **Syscall-Monitor** | Tool — Syscall monitoring utility *(no longer maintained)* | [GitHub](https://github.com/hzqst/Syscall-Monitor) |
 | **unicorn_pe** | Library — Unicorn Engine-based PE emulation *(no longer maintained)* | [GitHub](https://github.com/hzqst/unicorn_pe) |
-| **FuckCertVerifyTimeValidity** | Tool — Certificate time validity bypass *(no longer maintained)* | [GitHub](https://github.com/hzqst/FuckCertVerifyTimeValidity) |
 
 ## 🧪 Other
 
