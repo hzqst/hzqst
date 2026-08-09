@@ -11,7 +11,7 @@
 | **sven-vehicle** | Sven Co-op Demo — drivable vehicles powered by bullet engine | [GitHub](https://github.com/hzqst/sven-vehicle) |
 | **GoldSrc_VibeSignatures** | Signature DB — automated GoldSrc signature/offset generation via Agent SKILLS + IDA | [GitHub](https://github.com/HLND2T/GoldSrc_VibeSignatures) |
 | **HLND2T-DiligentGraphics** | DiligentGraphics-based GoldSrc renderer (Release Candidate) | [GitHub](https://github.com/HLND2T/HLND2T-DiligentGraphics-Release-Candidate) |
-| **CKF3Alpha** | Half-Life Mod — Team Fortress 2 ported to GoldSrc engine | [GitHub](https://github.com/CKFDevPowered/CKF3Alpha) |
+| **CKF3Alpha** | Half-Life Mod — Team Fortress 2 ported to GoldSrc engine *(no longer maintained)* | [GitHub](https://github.com/CKFDevPowered/CKF3Alpha) |
 
 ## 🔫 Source2-related
 
@@ -23,8 +23,11 @@
 
 | Project | Type | Link |
 |---------|------|------|
-| **VmwareHardenedLoader** | Kernel Driver — VMware hardened VM detection mitigation (anti-anti-VM) | [GitHub](https://github.com/hzqst/VmwareHardenedLoader) |
 | **kphtools** | Toolkits — KPH (SystemInformer) dynamic data offset generation | [GitHub](https://github.com/HLND2T/kphtools) |
+| **VmwareHardenedLoader** | Kernel Driver — VMware hardened VM detection mitigation (anti-anti-VM) | [GitHub](https://github.com/hzqst/VmwareHardenedLoader) |
+| **Syscall-Monitor** | Tool — Syscall monitoring utility *(no longer maintained)* | [GitHub](https://github.com/hzqst/Syscall-Monitor) |
+| **unicorn_pe** | Library — Unicorn Engine-based PE emulation *(no longer maintained)* | [GitHub](https://github.com/hzqst/unicorn_pe) |
+| **FuckCertVerifyTimeValidity** | Tool — Certificate time validity bypass *(no longer maintained)* | [GitHub](https://github.com/hzqst/FuckCertVerifyTimeValidity) |
 
 ## 🧪 Other
 
