@@ -9,9 +9,15 @@
 | **metamod-fallguys** | MetaMod Plugin — Fall Guys gameplay mechanics for Sven Co-op | [GitHub](https://github.com/hzqst/metamod-fallguys) |
 | **sven-fallguys** | Sven Co-op Map Pack — Fall Guys minigames (Season 3) | [GitHub](https://github.com/hzqst/sven-fallguys) |
 | **sven-vehicle** | Sven Co-op Demo — drivable vehicles in GoldSrc | [GitHub](https://github.com/hzqst/sven-vehicle) |
-| **GoldSrc_VibeSignatures** | Signature DB — function signatures for GoldSrc engine variants | [GitHub](https://github.com/HLND2T/GoldSrc_VibeSignatures) |
+| **GoldSrc_VibeSignatures** | Signature DB — automated GoldSrc signature/offset generation via Agent SKILLS + IDA | [GitHub](https://github.com/HLND2T/GoldSrc_VibeSignatures) |
 | **HLND2T-DiligentGraphics** | DiligentGraphics-based GoldSrc renderer (Release Candidate) | [GitHub](https://github.com/HLND2T/HLND2T-DiligentGraphics-Release-Candidate) |
 | **CKF3Alpha** | Half-Life Mod — Team Fortress 2 ported to GoldSrc engine | [GitHub](https://github.com/CKFDevPowered/CKF3Alpha) |
+
+## 🔫 Source2-related
+
+| Project | Type | Link |
+|---------|------|------|
+| **CS2_VibeSignatures** | Signature DB — automated CS2 signature/offset generation via Agent SKILLS + IDA | [GitHub](https://github.com/HLND2T/CS2_VibeSignatures) |
 
 ## 🪟 Windows-related
 
