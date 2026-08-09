@@ -4,11 +4,11 @@
 
 | Project | Type | Link |
 |---------|------|------|
-| **MetaHookSv** | MetaHook — client-side modding framework for SvEngine (Sven Co-op) | [GitHub](https://github.com/hzqst/MetaHookSv) |
-| **BetterSpray** | MetaHookSv Plugin — replace tempdecal.wad with HD images from Steam profiles | [GitHub](https://github.com/hzqst/BetterSpray) |
+| **MetaHookSv** | MetaHook — client-side modding framework for GoldSrc and SvEngine (Sven Co-op) | [GitHub](https://github.com/hzqst/MetaHookSv) |
+| **BetterSpray** | MetaHookSv Plugin — replace low-res decals in game with HD images from Steam profiles | [GitHub](https://github.com/hzqst/BetterSpray) |
 | **metamod-fallguys** | MetaMod Plugin — Fall Guys gameplay mechanics for Sven Co-op | [GitHub](https://github.com/hzqst/metamod-fallguys) |
-| **sven-fallguys** | Sven Co-op Map Pack — Fall Guys minigames (Season 3) | [GitHub](https://github.com/hzqst/sven-fallguys) |
-| **sven-vehicle** | Sven Co-op Demo — drivable vehicles in GoldSrc | [GitHub](https://github.com/hzqst/sven-vehicle) |
+| **sven-fallguys** | Sven Co-op Map Pack — Fall Guys minigames (Season 1 ~ 3) | [GitHub](https://github.com/hzqst/sven-fallguys) |
+| **sven-vehicle** | Sven Co-op Demo — drivable vehicles powered by bullet engine | [GitHub](https://github.com/hzqst/sven-vehicle) |
 | **GoldSrc_VibeSignatures** | Signature DB — automated GoldSrc signature/offset generation via Agent SKILLS + IDA | [GitHub](https://github.com/HLND2T/GoldSrc_VibeSignatures) |
 | **HLND2T-DiligentGraphics** | DiligentGraphics-based GoldSrc renderer (Release Candidate) | [GitHub](https://github.com/HLND2T/HLND2T-DiligentGraphics-Release-Candidate) |
 | **CKF3Alpha** | Half-Life Mod — Team Fortress 2 ported to GoldSrc engine | [GitHub](https://github.com/CKFDevPowered/CKF3Alpha) |
