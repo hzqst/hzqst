@@ -44,5 +44,6 @@
 | **privacy-filter** | LLM privacy gateway in Go — millisecond-latency PII and secret redaction *(fork of packyme/privacy-filter)* : with some bugfixes | [GitHub](https://github.com/hzqst/privacy-filter) |
 | **DiligentEngine (RTXPT)** | Cross-platform low-level graphics library and rendering framework : RTXPT branch, real-time path tracing with ray reconstruction integration *(fork of DiligentGraphics/DiligentEngine)* | [GitHub](https://github.com/hzqst/DiligentEngine/tree/RTXPT) |
 | **BiBiBSPUserVideoMonkeyScript** | B站高级屏蔽脚本 — 按用户名、UID、视频/评论关键词等规则屏蔽视频、评论区与直播评论 *(fork of hgztask/BiBiBSPUserVideoMonkeyScript)*  : with LLM classifier support | [GitHub](https://github.com/hzqst/BiBiBSPUserVideoMonkeyScript) |
+| **FreeImage_clone** | FreeImage — C/C++ image processing library *(clone of sourceforge.net/projects/freeimage)* : with CMake build support and webp-multipage support | [GitHub](https://github.com/hzqst/FreeImage_clone) |
 
 ---
