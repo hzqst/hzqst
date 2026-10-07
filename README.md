@@ -4,8 +4,7 @@
 
 | Project | Description | Link |
 |---------|------|------|
-| **MetaHookSv** | MetaHook — client-side modding framework for GoldSrc and SvEngine (Sven Co-op) | [GitHub](https://github.com/hzqst/MetaHookSv) |
-| **BetterSpray** | MetaHookSv Plugin — replace low-res decals in game with HD images from Steam profiles | [GitHub](https://github.com/hzqst/BetterSpray) |
+| **MetaHookSv** | MetaHook — client-side modding framework for GoldSrc and SvEngine (Sven Co-op) | [GitHub](https://github.com/MetaHookSv/MetaHookSv) |
 | **metamod-fallguys** | MetaMod Plugin — Fall Guys gameplay mechanics for Sven Co-op | [GitHub](https://github.com/hzqst/metamod-fallguys) |
 | **sven-fallguys** | Sven Co-op Map Pack — Fall Guys minigames (Season 1 ~ 3) | [GitHub](https://github.com/hzqst/sven-fallguys) |
 | **sven-vehicle** | Sven Co-op Demo — drivable vehicles powered by bullet engine | [GitHub](https://github.com/hzqst/sven-vehicle) |
