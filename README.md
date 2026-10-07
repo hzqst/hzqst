@@ -37,7 +37,6 @@
 
 | Project | Description | Link |
 |---------|------|------|
-| **vm2api** | *(fork of dofastted/vm2api)* : with GUI bugfixes | [GitHub](https://github.com/hzqst/vm2api) |
 | **reagent** | Reconstruct and validate C/C++ code from compiled programs with AI *(fork of Dryxio/reagent)* : with pi-agent support | [GitHub](https://github.com/hzqst/reagent) |
 | **cpa-plugin-privacyfilter** | Native privacy filter plugin for CLIProxyAPI — intercepts model requests, detects and redacts sensitive text before forwarding upstream *(fork of rheodev/cpa-plugin-privacyfilter)* : with some bugfixes | [GitHub](https://github.com/hzqst/cpa-plugin-privacyfilter) |
 | **privacy-filter** | LLM privacy gateway in Go — millisecond-latency PII and secret redaction *(fork of packyme/privacy-filter)* : with some bugfixes | [GitHub](https://github.com/hzqst/privacy-filter) |
