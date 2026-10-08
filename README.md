@@ -43,5 +43,8 @@
 | **DiligentEngine (RTXPT)** | Cross-platform low-level graphics library and rendering framework : RTXPT branch, real-time path tracing with ray reconstruction integration *(fork of DiligentGraphics/DiligentEngine)* | [GitHub](https://github.com/hzqst/DiligentEngine/tree/RTXPT) |
 | **BiBiBSPUserVideoMonkeyScript** | B站高级屏蔽脚本 — 按用户名、UID、视频/评论关键词等规则屏蔽视频、评论区与直播评论 *(fork of hgztask/BiBiBSPUserVideoMonkeyScript)*  : with LLM classifier support | [GitHub](https://github.com/hzqst/BiBiBSPUserVideoMonkeyScript) |
 | **FreeImage_clone** | FreeImage — C/C++ image processing library *(clone of sourceforge.net/projects/freeimage)* : with CMake build support and webp-multipage support | [GitHub](https://github.com/hzqst/FreeImage_clone) |
+| **garm** | GitHub Actions & Gitea self-hosted runner manager — multi-cloud auto-scaling from a single controller with pluggable providers *(fork of cloudbase/garm)* : with Windows external-provider binary support, runner name propagation on instance deletion, and pooled-runner reconciliation fixes | [GitHub](https://github.com/HLND2T/garm) |
+| **garm-provider-hyperv** | GARM external provider — fixed-guest Hyper-V runner provider for Windows hosts : checkpoint-restore allocation, VM/VHDX left intact, PowerShell Direct and SSH bootstrap *(companion project of garm)* | [GitHub](https://github.com/HLND2T/garm-provider-hyperv) |
+| **binsync** | Cross-decompiler reverse-engineering collaboration built on git — syncs functions, stack variables, structs, enums and comments across IDA, Ghidra and Binja *(fork of binsync/binsync)* : with auto-recover on project load, opt-in first-load auto `sync_all`, and a headless `force_push_all` helper | [GitHub](https://github.com/HLND2T/binsync) |
 
 ---
