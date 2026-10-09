@@ -47,5 +47,8 @@
 | **garm-provider-hyperv** | GARM external provider — fixed-guest Hyper-V runner provider for Windows hosts *(companion project of garm)* | checkpoint-restore allocation, VM/VHDX left intact, PowerShell Direct and SSH bootstrap | [GitHub](https://github.com/HLND2T/garm-provider-hyperv) |
 | **binsync** | Cross-decompiler reverse-engineering collaboration built on git — syncs functions, stack variables, structs, enums and comments across IDA, Ghidra and Binja *(fork of binsync/binsync)* | auto-recover on project load, opt-in first-load auto `sync_all`, and a headless `force_push_all` helper | [GitHub](https://github.com/HLND2T/binsync) |
 | **renderdoc-fork** | RenderDoc — stand-alone frame-capture based graphics debugger for Vulkan, D3D11, D3D12, OpenGL and OpenGL ES *(fork of baldurk/renderdoc)* | opengl32.dll inlinehook support, to avoid conflicting with game patches with IAT hook | [GitHub](https://github.com/hzqst/renderdoc-fork) |
+| **setup-uv** | GitHub Action — set up your workflow with a specific version of uv, the Python package manager by Astral *(fork of astral-sh/setup-uv)* | store uv's cache on an S3-compatible server as cache storage | [GitHub](https://github.com/hzqst/setup-uv) |
+| **actions-cache** | GitHub Actions caching tool — stores dependency caches in S3-compatible storage (e.g. MinIO, AWS S3), with official `actions/cache` fallback *(fork of tespkg/actions-cache)* | S3-compatible server support as cache storage | [GitHub](https://github.com/hzqst/actions-cache) |
+| **CS2_External** | Educational CS2 external cheat — BoneESP, BoxESP, AimBot with RCS, Radar, TriggerBot, visibility check and Bhop *(fork of TKazer/CS2_External)* | auto-updating offsets | [GitHub](https://github.com/hzqst/CS2_External) |
 
 ---
