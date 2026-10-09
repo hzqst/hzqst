@@ -2,36 +2,36 @@
 
 ## 🎮 GoldSrc-related
 
-| Project | Description | Link |
-|---------|------|------|
-| **MetaHookSv** | MetaHook — client-side modding framework for GoldSrc and SvEngine (Sven Co-op) | [GitHub](https://github.com/MetaHookSv/MetaHookSv) |
-| **metamod-fallguys** | MetaMod Plugin — Fall Guys gameplay mechanics for Sven Co-op | [GitHub](https://github.com/hzqst/metamod-fallguys) |
-| **sven-fallguys** | Sven Co-op Map Pack — Fall Guys minigames (Season 1 ~ 3) | [GitHub](https://github.com/hzqst/sven-fallguys) |
-| **sven-vehicle** | Sven Co-op Demo — drivable vehicles powered by bullet engine | [GitHub](https://github.com/hzqst/sven-vehicle) |
-| **GoldSrc_VibeSignatures** | Automated GoldSrc signature/offset generation via Agent SKILLS + IDA | [GitHub](https://github.com/HLND2T/GoldSrc_VibeSignatures) |
-| **HLND2T-DiligentGraphics** | DiligentGraphics-based GoldSrc renderer (Release Candidate) | [GitHub](https://github.com/HLND2T/HLND2T-DiligentGraphics-Release-Candidate) |
-| **CKF3Alpha** | Half-Life Mod — Team Fortress 2 ported to GoldSrc engine *(no longer maintained)* | [GitHub](https://github.com/CKFDevPowered/CKF3Alpha) |
+| Project | Description | Active | Link |
+|---------|------|------|------|
+| **MetaHookSv** | MetaHook — client-side modding framework for GoldSrc and SvEngine (Sven Co-op) | ✅ | [GitHub](https://github.com/MetaHookSv/MetaHookSv) |
+| **metamod-fallguys** | MetaMod Plugin — Fall Guys gameplay mechanics for Sven Co-op | ✅ | [GitHub](https://github.com/hzqst/metamod-fallguys) |
+| **sven-fallguys** | Sven Co-op Map Pack — Fall Guys minigames (Season 1 ~ 3) | ✅ | [GitHub](https://github.com/hzqst/sven-fallguys) |
+| **sven-vehicle** | Sven Co-op Demo — drivable vehicles powered by bullet engine | ✅ | [GitHub](https://github.com/hzqst/sven-vehicle) |
+| **GoldSrc_VibeSignatures** | Automated GoldSrc signature/offset generation via Agent SKILLS + IDA | ✅ | [GitHub](https://github.com/HLND2T/GoldSrc_VibeSignatures) |
+| **HLND2T-DiligentGraphics** | DiligentGraphics-based GoldSrc renderer (Release Candidate) | ✅ | [GitHub](https://github.com/HLND2T/HLND2T-DiligentGraphics-Release-Candidate) |
+| **CKF3Alpha** | Half-Life Mod — Team Fortress 2 ported to GoldSrc engine | ❌ | [GitHub](https://github.com/CKFDevPowered/CKF3Alpha) |
 
 ## 🔫 Source2-related
 
-| Project | Description | Link |
-|---------|------|------|
-| **CS2_VibeSignatures** | Automated CS2 signature/offset generation via Agent SKILLS + IDA | [GitHub](https://github.com/HLND2T/CS2_VibeSignatures) |
+| Project | Description | Active | Link |
+|---------|------|------|------|
+| **CS2_VibeSignatures** | Automated CS2 signature/offset generation via Agent SKILLS + IDA | ✅ | [GitHub](https://github.com/HLND2T/CS2_VibeSignatures) |
 
 ## 🪟 Windows-related
 
-| Project | Description | Link |
-|---------|------|------|
-| **kphtools** | Toolkits — KPH (SystemInformer) dynamic data offset generation | [GitHub](https://github.com/HLND2T/kphtools) |
-| **VmwareHardenedLoader** | Kernel Driver — VMware hardened VM detection mitigation (anti-anti-VM) | [GitHub](https://github.com/hzqst/VmwareHardenedLoader) |
-| **Syscall-Monitor** | Tool — Syscall monitoring utility *(no longer maintained)* | [GitHub](https://github.com/hzqst/Syscall-Monitor) |
-| **unicorn_pe** | Library — Unicorn Engine-based PE emulation *(no longer maintained)* | [GitHub](https://github.com/hzqst/unicorn_pe) |
+| Project | Description | Active | Link |
+|---------|------|------|------|
+| **kphtools** | Toolkits — KPH (SystemInformer) dynamic data offset generation | ✅ | [GitHub](https://github.com/HLND2T/kphtools) |
+| **VmwareHardenedLoader** | Kernel Driver — VMware hardened VM detection mitigation (anti-anti-VM) | ✅ | [GitHub](https://github.com/hzqst/VmwareHardenedLoader) |
+| **Syscall-Monitor** | Tool — Syscall monitoring utility | ❌ | [GitHub](https://github.com/hzqst/Syscall-Monitor) |
+| **unicorn_pe** | Library — Unicorn Engine-based PE emulation | ❌ | [GitHub](https://github.com/hzqst/unicorn_pe) |
 
 ## 🧪 Other
 
-| Project | Type | Link |
-|---------|------|------|
-| **CGAssistant** | Game Helper — highly automated gameplay assistant for CrossGate | [GitHub](https://github.com/hzqst/CGAssistant) |
+| Project | Description | Active | Link |
+|---------|------|------|------|
+| **CGAssistant** | Game Helper — highly automated gameplay assistant for CrossGate | ✅ | [GitHub](https://github.com/hzqst/CGAssistant) |
 
 ## 🍴 Forks
 
