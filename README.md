@@ -35,16 +35,17 @@
 
 ## 🍴 Forks
 
-| Project | Description | Link |
-|---------|------|------|
-| **reagent** | Reconstruct and validate C/C++ code from compiled programs with AI *(fork of Dryxio/reagent)* : with pi-agent support | [GitHub](https://github.com/hzqst/reagent) |
-| **cpa-plugin-privacyfilter** | Native privacy filter plugin for CLIProxyAPI — intercepts model requests, detects and redacts sensitive text before forwarding upstream *(fork of rheodev/cpa-plugin-privacyfilter)* : with some bugfixes | [GitHub](https://github.com/hzqst/cpa-plugin-privacyfilter) |
-| **privacy-filter** | LLM privacy gateway in Go — millisecond-latency PII and secret redaction *(fork of packyme/privacy-filter)* : with some bugfixes | [GitHub](https://github.com/hzqst/privacy-filter) |
-| **DiligentEngine (RTXPT)** | Cross-platform low-level graphics library and rendering framework : RTXPT branch, real-time path tracing with ray reconstruction integration *(fork of DiligentGraphics/DiligentEngine)* | [GitHub](https://github.com/hzqst/DiligentEngine/tree/RTXPT) |
-| **BiBiBSPUserVideoMonkeyScript** | B站高级屏蔽脚本 — 按用户名、UID、视频/评论关键词等规则屏蔽视频、评论区与直播评论 *(fork of hgztask/BiBiBSPUserVideoMonkeyScript)*  : with LLM classifier support | [GitHub](https://github.com/hzqst/BiBiBSPUserVideoMonkeyScript) |
-| **FreeImage_clone** | FreeImage — C/C++ image processing library *(clone of sourceforge.net/projects/freeimage)* : with CMake build support and webp-multipage support | [GitHub](https://github.com/hzqst/FreeImage_clone) |
-| **garm** | GitHub Actions & Gitea self-hosted runner manager — multi-cloud auto-scaling from a single controller with pluggable providers *(fork of cloudbase/garm)* : with Windows external-provider binary support, runner name propagation on instance deletion, and pooled-runner reconciliation fixes | [GitHub](https://github.com/HLND2T/garm) |
-| **garm-provider-hyperv** | GARM external provider — fixed-guest Hyper-V runner provider for Windows hosts : checkpoint-restore allocation, VM/VHDX left intact, PowerShell Direct and SSH bootstrap *(companion project of garm)* | [GitHub](https://github.com/HLND2T/garm-provider-hyperv) |
-| **binsync** | Cross-decompiler reverse-engineering collaboration built on git — syncs functions, stack variables, structs, enums and comments across IDA, Ghidra and Binja *(fork of binsync/binsync)* : with auto-recover on project load, opt-in first-load auto `sync_all`, and a headless `force_push_all` helper | [GitHub](https://github.com/HLND2T/binsync) |
+| Project | Description | Changes | Link |
+|---------|------|------|------|
+| **reagent** | Reconstruct and validate C/C++ code from compiled programs with AI *(fork of Dryxio/reagent)* | pi-agent and ida-pro-mcp support | [GitHub](https://github.com/hzqst/reagent) |
+| **cpa-plugin-privacyfilter** | Native privacy filter plugin for CLIProxyAPI — intercepts model requests, detects and redacts sensitive text before forwarding upstream *(fork of rheodev/cpa-plugin-privacyfilter)* | some bugfixes | [GitHub](https://github.com/hzqst/cpa-plugin-privacyfilter) |
+| **privacy-filter** | LLM privacy gateway in Go — millisecond-latency PII and secret redaction *(fork of packyme/privacy-filter)* | some bugfixes | [GitHub](https://github.com/hzqst/privacy-filter) |
+| **DiligentEngine (RTXPT)** | Cross-platform low-level graphics library and rendering framework *(fork of DiligentGraphics/DiligentEngine)* | RTXPT branch — real-time path tracing with ray reconstruction integration | [GitHub](https://github.com/hzqst/DiligentEngine/tree/RTXPT) |
+| **BiBiBSPUserVideoMonkeyScript** | B站高级屏蔽脚本 — 按用户名、UID、视频/评论关键词等规则屏蔽视频、评论区与直播评论 *(fork of hgztask/BiBiBSPUserVideoMonkeyScript)* | LLM classifier support | [GitHub](https://github.com/hzqst/BiBiBSPUserVideoMonkeyScript) |
+| **FreeImage_clone** | FreeImage — C/C++ image processing library *(clone of sourceforge.net/projects/freeimage)* | CMake build support and webp-multipage support | [GitHub](https://github.com/hzqst/FreeImage_clone) |
+| **garm** | GitHub Actions & Gitea self-hosted runner manager — multi-cloud auto-scaling from a single controller with pluggable providers *(fork of cloudbase/garm)* | Windows external-provider binary support, runner name propagation on instance deletion, and pooled-runner reconciliation fixes | [GitHub](https://github.com/HLND2T/garm) |
+| **garm-provider-hyperv** | GARM external provider — fixed-guest Hyper-V runner provider for Windows hosts *(companion project of garm)* | checkpoint-restore allocation, VM/VHDX left intact, PowerShell Direct and SSH bootstrap | [GitHub](https://github.com/HLND2T/garm-provider-hyperv) |
+| **binsync** | Cross-decompiler reverse-engineering collaboration built on git — syncs functions, stack variables, structs, enums and comments across IDA, Ghidra and Binja *(fork of binsync/binsync)* | auto-recover on project load, opt-in first-load auto `sync_all`, and a headless `force_push_all` helper | [GitHub](https://github.com/HLND2T/binsync) |
+| **renderdoc-fork** | RenderDoc — stand-alone frame-capture based graphics debugger for Vulkan, D3D11, D3D12, OpenGL and OpenGL ES *(fork of baldurk/renderdoc)* | opengl32.dll inlinehook support, to avoid conflicting with game patches with IAT hook | [GitHub](https://github.com/hzqst/renderdoc-fork) |
 
 ---
