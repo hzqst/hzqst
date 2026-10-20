@@ -5,7 +5,7 @@
 | Project | Description | Active | Link |
 |---------|------|------|------|
 | **MetaHookSv** | MetaHook — client-side modding framework for GoldSrc and SvEngine (Sven Co-op) | ✅ | [GitHub](https://github.com/MetaHookSv/MetaHookSv) |
-| **metamod-fallguys** | MetaMod Plugin — Fall Guys gameplay mechanics for Sven Co-op | ✅ | [GitHub](https://github.com/hzqst/metamod-fallguys) |
+| **metamod-svencoop** | MetaMod for Sven Co-op | ✅ | [GitHub](https://github.com/hzqst/metamod-svencoop) |
 | **sven-fallguys** | Sven Co-op Map Pack — Fall Guys minigames (Season 1 ~ 3) | ✅ | [GitHub](https://github.com/hzqst/sven-fallguys) |
 | **sven-vehicle** | Sven Co-op Demo — drivable vehicles powered by bullet engine | ✅ | [GitHub](https://github.com/hzqst/sven-vehicle) |
 | **GoldSrc_VibeSignatures** | Automated GoldSrc signature/offset generation via Agent SKILLS + IDA | ✅ | [GitHub](https://github.com/HLND2T/GoldSrc_VibeSignatures) |
